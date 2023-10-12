@@ -1,1 +1,4 @@
 Este es un archivo de texto, que posiblemente ahorita mas tarde voy a abrir con la terminal por lo que veo, o no sé, de pronto no
+Esto es otra línea en esta historia
+De pronto este archivo este lleno de cosas con texto plano
+Porque la verdad no se que escribir en la historia
